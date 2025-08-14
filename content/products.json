@@ -1,0 +1,359 @@
+{
+  "products": [
+    {
+      "id": "millet-kodo",
+      "name": "Kodo Millet (Whole Grain)",
+      "category": "Millets",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "millet-kodo",
+      "shortDescription": "High-quality whole Kodo Millet \u2014 ideal for healthy meals, porridge and traditional recipes.",
+      "tags": [
+        "millet",
+        "kodo",
+        "wholegrain"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "millet-foxtail",
+      "name": "Foxtail Millet (Whole Grain)",
+      "category": "Millets",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "millet-foxtail",
+      "shortDescription": "High-quality whole Foxtail Millet \u2014 ideal for healthy meals, porridge and traditional recipes.",
+      "tags": [
+        "millet",
+        "foxtail",
+        "wholegrain"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "millet-barnyard",
+      "name": "Barnyard Millet (Whole Grain)",
+      "category": "Millets",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "millet-barnyard",
+      "shortDescription": "High-quality whole Barnyard Millet \u2014 ideal for healthy meals, porridge and traditional recipes.",
+      "tags": [
+        "millet",
+        "barnyard",
+        "wholegrain"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "millet-browntop",
+      "name": "Browntop Millet (Whole Grain)",
+      "category": "Millets",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "millet-browntop",
+      "shortDescription": "High-quality whole Browntop Millet \u2014 ideal for healthy meals, porridge and traditional recipes.",
+      "tags": [
+        "millet",
+        "browntop",
+        "wholegrain"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "millet-little",
+      "name": "Little Millet (Whole Grain)",
+      "category": "Millets",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "millet-little",
+      "shortDescription": "High-quality whole Little Millet \u2014 ideal for healthy meals, porridge and traditional recipes.",
+      "tags": [
+        "millet",
+        "little",
+        "wholegrain"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "oil-safflower",
+      "name": "Safflower Seed Oil (Bull-driven)",
+      "category": "Oils",
+      "price": "xxx",
+      "price_unit": "per liter",
+      "image": "product-safflower",
+      "shortDescription": "Traditional bull-driven extraction \u2014 rich in nutrients and natural flavour.",
+      "tags": [
+        "oil",
+        "safflower"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "oil-niger",
+      "name": "Niger Seed Oil (Bull-driven)",
+      "category": "Oils",
+      "price": "xxx",
+      "price_unit": "per liter",
+      "image": "product-niger",
+      "shortDescription": "Traditional bull-driven extraction \u2014 rich in nutrients and natural flavour.",
+      "tags": [
+        "oil",
+        "niger"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "oil-groundnut",
+      "name": "Groundnut / Peanut Oil (Bull-driven)",
+      "category": "Oils",
+      "price": "xxx",
+      "price_unit": "per liter",
+      "image": "product-groundnut",
+      "shortDescription": "Traditional bull-driven extraction \u2014 rich in nutrients and natural flavour.",
+      "tags": [
+        "oil",
+        "groundnut"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "oil-coconut",
+      "name": "Coconut Oil (Bull-driven)",
+      "category": "Oils",
+      "price": "xxx",
+      "price_unit": "per liter",
+      "image": "product-coconut",
+      "shortDescription": "Traditional bull-driven extraction \u2014 rich in nutrients and natural flavour.",
+      "tags": [
+        "oil",
+        "coconut"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "oil-sesame",
+      "name": "Sesame Nectar Oil (Bull-driven)",
+      "category": "Oils",
+      "price": "xxx",
+      "price_unit": "per liter",
+      "image": "product-sesame",
+      "shortDescription": "Traditional bull-driven extraction \u2014 rich in nutrients and natural flavour.",
+      "tags": [
+        "oil",
+        "sesame"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "seed-kodo",
+      "name": "Kodo Millet Seeds",
+      "category": "Millet Seeds",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "seed-kodo",
+      "shortDescription": "Certified Kodo Millet seeds for farming and cultivation \u2014 high germination rate.",
+      "tags": [
+        "millet",
+        "seed",
+        "kodo"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "seed-foxtail",
+      "name": "Foxtail Millet Seeds",
+      "category": "Millet Seeds",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "seed-foxtail",
+      "shortDescription": "Certified Foxtail Millet seeds for farming and cultivation \u2014 high germination rate.",
+      "tags": [
+        "millet",
+        "seed",
+        "foxtail"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "seed-barnyard",
+      "name": "Barnyard Millet Seeds",
+      "category": "Millet Seeds",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "seed-barnyard",
+      "shortDescription": "Certified Barnyard Millet seeds for farming and cultivation \u2014 high germination rate.",
+      "tags": [
+        "millet",
+        "seed",
+        "barnyard"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "seed-browntop",
+      "name": "Browntop Millet Seeds",
+      "category": "Millet Seeds",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "seed-browntop",
+      "shortDescription": "Certified Browntop Millet seeds for farming and cultivation \u2014 high germination rate.",
+      "tags": [
+        "millet",
+        "seed",
+        "browntop"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "seed-little",
+      "name": "Little Millet Seeds",
+      "category": "Millet Seeds",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "seed-little",
+      "shortDescription": "Certified Little Millet seeds for farming and cultivation \u2014 high germination rate.",
+      "tags": [
+        "millet",
+        "seed",
+        "little"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "flour-kodo",
+      "name": "Kodo Millet Flour",
+      "category": "Millet Flours",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "flour-kodo",
+      "shortDescription": "Stone-ground kodo millet flour \u2014 nutritious and versatile for rotis, pancakes and baking.",
+      "tags": [
+        "millet",
+        "flour",
+        "kodo"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "flour-foxtail",
+      "name": "Foxtail Millet Flour",
+      "category": "Millet Flours",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "flour-foxtail",
+      "shortDescription": "Stone-ground foxtail millet flour \u2014 nutritious and versatile for rotis, pancakes and baking.",
+      "tags": [
+        "millet",
+        "flour",
+        "foxtail"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "flour-barnyard",
+      "name": "Barnyard Millet Flour",
+      "category": "Millet Flours",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "flour-barnyard",
+      "shortDescription": "Stone-ground barnyard millet flour \u2014 nutritious and versatile for rotis, pancakes and baking.",
+      "tags": [
+        "millet",
+        "flour",
+        "barnyard"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "flour-browntop",
+      "name": "Browntop Millet Flour",
+      "category": "Millet Flours",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "flour-browntop",
+      "shortDescription": "Stone-ground browntop millet flour \u2014 nutritious and versatile for rotis, pancakes and baking.",
+      "tags": [
+        "millet",
+        "flour",
+        "browntop"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "flour-little",
+      "name": "Little Millet Flour",
+      "category": "Millet Flours",
+      "price": "xxx",
+      "price_unit": "per kg",
+      "image": "flour-little",
+      "shortDescription": "Stone-ground little millet flour \u2014 nutritious and versatile for rotis, pancakes and baking.",
+      "tags": [
+        "millet",
+        "flour",
+        "little"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "palm-jaggery-500g",
+      "name": "Palm Jaggery Powder (500g)",
+      "category": "Sweeteners",
+      "price": "xxx",
+      "price_unit": "per 500g",
+      "image": "product-palm-jaggery-500g",
+      "shortDescription": "Natural palm jaggery powder \u2014 unrefined and aromatic (500g pack).",
+      "tags": [
+        "jaggery",
+        "palm",
+        "500g"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "palm-jaggery-1kg",
+      "name": "Palm Jaggery Powder (1 kg)",
+      "category": "Sweeteners",
+      "price": "xxx",
+      "price_unit": "per 1 kg",
+      "image": "product-palm-jaggery-1kg",
+      "shortDescription": "Natural palm jaggery powder \u2014 unrefined and aromatic (1 kg pack).",
+      "tags": [
+        "jaggery",
+        "palm",
+        "1kg"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "copper-plate-bottle",
+      "name": "Copper Plate (Bottle-sized) - 99.99% Purity",
+      "category": "Houseware",
+      "price": "xxx",
+      "price_unit": "each",
+      "image": "product-copper-bottle",
+      "shortDescription": "Pure copper plate for water purification \u2014 ideal for bottle-sized vessels.",
+      "tags": [
+        "copper",
+        "purifier",
+        "bottle"
+      ],
+      "shipping_available": true
+    },
+    {
+      "id": "copper-plate-pot",
+      "name": "Copper Plate (Pot-sized) - 99.99% Purity",
+      "category": "Houseware",
+      "price": "xxx",
+      "price_unit": "each",
+      "image": "product-copper-pot",
+      "shortDescription": "Pure copper plate for water purification \u2014 ideal for pot-sized vessels.",
+      "tags": [
+        "copper",
+        "purifier",
+        "pot"
+      ],
+      "shipping_available": true
+    }
+  ]
+}

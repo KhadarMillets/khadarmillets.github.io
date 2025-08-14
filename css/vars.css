@@ -1,0 +1,24 @@
+:root{
+  --nm-primary: #1E6FA8; /* deep logo blue */
+  --nm-secondary: #2F6B3E; /* deep logo green */
+  --nm-bg: #F5F7FA; /* light cool gray */
+  --nm-card-bg: #FFFFFF; /* white cards */
+  --nm-accent: #C4A26A; /* soft gold accent */
+  --nm-dark: #1C1C1C; /* body text */
+  --nm-footer-text: #FFFFFF; /* text on footer */
+  --nm-font-heading: 'Playfair Display', serif;
+  --nm-font-body: 'Lato', sans-serif;
+  --nm-radius: 12px;
+  --nm-gap-sm: 8px;
+  --nm-gap-md: 16px;
+  --nm-gap-lg: 24px;
+}
+
+
+.nm-product-card, .nm-recipe-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+}
+.nm-product-card:hover, .nm-recipe-card:hover {
+  transform: scale(1.03) !important;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15) !important;
+}

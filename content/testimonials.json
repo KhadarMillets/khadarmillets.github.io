@@ -1,0 +1,25 @@
+{
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Sunita K.",
+      "location": "Jalandhar",
+      "quote": "Fresh millets and great service \u2014 packaging kept everything safe. Highly recommended!",
+      "avatar": "testi1"
+    },
+    {
+      "id": "t2",
+      "name": "Amit R.",
+      "location": "Chandigarh",
+      "quote": "Ordered seeds for the farm \u2014 germination was excellent. Good honest people.",
+      "avatar": "testi2"
+    },
+    {
+      "id": "t3",
+      "name": "Meera S.",
+      "location": "Delhi",
+      "quote": "The palm jaggery tastes real and pure. Delivery was fast and well packed.",
+      "avatar": "testi3"
+    }
+  ]
+}

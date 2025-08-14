@@ -1,0 +1,189 @@
+{
+  "recipes": [
+    {
+      "id": "kodo-millet-upma",
+      "title": "Kodo Millet Upma",
+      "shortDescription": "A savory, fluffy breakfast upma made from roasted kodo millet with mustard, curry leaves and peanuts.",
+      "image": "recipe-kodo-millet-upma",
+      "steps": [
+        "Dry-roast 1 cup kodo millet in a pan for 3\u20134 minutes until it smells nutty. Rinse and drain under running water.",
+        "Heat 2 tbsp oil in a pan. Add 1 tsp mustard seeds; when they pop, add 1 tsp urad dal, 1 chopped onion, 1 chopped green chili and a few curry leaves. Saut\u00e9 until onion is soft.",
+        "Add peanuts (optional) and the drained millet; stir for 1 minute to coat the grains in oil and aromatics.",
+        "Add 2 cups boiling water and 1/2 tsp salt. Bring to a boil, then lower heat, cover and simmer for 10\u201312 minutes until the millet is tender and water is absorbed.",
+        "Turn off heat, let stand for 5 minutes, fluff with a fork and finish with a squeeze of lemon and chopped coriander. Serve hot."
+      ]
+    },
+    {
+      "id": "foxtail-millet-dosa",
+      "title": "Foxtail Millet Dosa",
+      "shortDescription": "Crispy, fermented crepes made from a foxtail millet and urad dal batter \u2014 a lighter, gluten-free dosa.",
+      "image": "recipe-foxtail-millet-dosa",
+      "steps": [
+        "Soak 1 cup foxtail millet and 1/2 cup urad dal separately for 4\u20136 hours.",
+        "Grind both to a smooth batter with water so it reaches a thick pouring consistency. Add salt and mix. Cover and ferment 6\u20138 hours or overnight in a warm place.",
+        "Heat a non-stick tawa (griddle). Pour a ladle of batter and spread thin in a circular motion to form a dosa.",
+        "Drizzle a little oil around the edges and cook until edges lift and underside is golden. Flip if you like it well-cooked on both sides.",
+        "Serve hot with coconut chutney and sambar."
+      ]
+    },
+    {
+      "id": "barnyard-millet-idli",
+      "title": "Barnyard Millet Idli",
+      "shortDescription": "Soft steamed idlis made with barnyard millet and split urad dal \u2014 an easy, healthy breakfast.",
+      "image": "recipe-barnyard-millet-idli",
+      "steps": [
+        "Soak 1 cup barnyard millet and 1/2 cup urad dal for 4\u20136 hours.",
+        "Grind both together with water to a slightly coarse batter. Add salt and mix well. Let the batter ferment for 6\u20138 hours if possible.",
+        "Grease idli moulds lightly. Pour batter into moulds and steam in an idli steamer or pressure cooker (without whistle) for 10\u201312 minutes.",
+        "Remove, cool for a minute then unmould. Serve warm with chutney or sambar."
+      ]
+    },
+    {
+      "id": "browntop-millet-khichdi",
+      "title": "Browntop Millet Khichdi",
+      "shortDescription": "Comforting one-pot khichdi using browntop millet and yellow moong dal, mildly spiced and easy to digest.",
+      "image": "recipe-browntop-millet-khichdi",
+      "steps": [
+        "Rinse 1 cup browntop millet and 1/2 cup split yellow moong dal until water runs clear.",
+        "Heat 2 tbsp ghee or oil in a pressure pan. Add 1 tsp cumin seeds, hing (a pinch), 1 chopped onion and saut\u00e9 until soft.",
+        "Add turmeric (1/2 tsp), chopped vegetables (carrot, peas) if using, the millet and dal, and 3 cups water. Season with salt.",
+        "Cook in a pressure cooker for 2\u20133 whistles (or simmer in a covered pot for 20\u201325 minutes) until grains and dal are soft and mushy.",
+        "Mash lightly, garnish with ghee and coriander, and serve with yogurt or pickle."
+      ]
+    },
+    {
+      "id": "little-millet-pongal",
+      "title": "Little Millet Pongal",
+      "shortDescription": "A savory South-Indian-style pongal made with little millet and dals, tempered with black pepper and cashews.",
+      "image": "recipe-little-millet-pongal",
+      "steps": [
+        "Roast 1 cup little millet and set aside. Wash and drain 1/2 cup moong dal.",
+        "In a pressure cooker, add the millet, moong dal, 3 cups water, 1/2 tsp turmeric and salt. Cook for 3 whistles until soft.",
+        "In a small pan, heat 2 tbsp ghee. Add 1 tsp black peppercorns (crushed), 1 tsp cumin seeds, curry leaves and a few cashews. Saut\u00e9 until aromatic and cashews are golden.",
+        "Mix the tempering into the cooked millet-dal, adjust salt and serve warm with coconut chutney or sambar."
+      ]
+    },
+    {
+      "id": "kodo-millet-pepper-pulao",
+      "title": "Kodo Millet Pepper Pulao",
+      "shortDescription": "A fragrant, mildly spiced pulao using roasted kodo millet and freshly crushed black pepper.",
+      "image": "recipe-kodo-millet-pepper-pulao",
+      "steps": [
+        "Rinse 1 cup kodo millet and drain. Heat 1 tbsp oil in a pan and lightly toast the millet for 2 minutes.",
+        "Saut\u00e9 1 bay leaf, 1 small cinnamon stick, 2 cloves and 1 sliced onion until soft.",
+        "Add 1 cup mixed vegetables (carrot, beans, peas), the toasted millet, 2 cups water, salt and 1\u20131.5 tsp freshly crushed black pepper.",
+        "Bring to a boil, cover and simmer for 12\u201315 minutes until millet is cooked and water is absorbed.",
+        "Fluff with a fork, garnish with coriander and serve with raita."
+      ]
+    },
+    {
+      "id": "mixed-millet-flour-roti",
+      "title": "Mixed Millet Flour Roti",
+      "shortDescription": "Soft rotis made from a blend of millet flours (kodo, foxtail, little) \u2014 a nutritious flatbread option.",
+      "image": "recipe-mixed-millet-flour-roti",
+      "steps": [
+        "Mix 1 cup millet flour (or a blend of different millet flours) with a pinch of salt.",
+        "Slowly add warm water and knead into a soft dough. Let it rest for 10 minutes covered.",
+        "Divide dough into small balls, dust with flour and roll gently into thin rotis (use a non-stick pan if dough is fragile).",
+        "Cook on a hot tava, applying a few drops of oil or ghee, until both sides have light brown spots. Keep covered in a cloth to stay soft.",
+        "Serve with curry or chutney."
+      ]
+    },
+    {
+      "id": "millet-and-moong-dal-soup",
+      "title": "Millet & Moong Dal Soup",
+      "shortDescription": "A light, nourishing soup of foxtail millet and yellow moong dal \u2014 great for recovery days or as a starter.",
+      "image": "recipe-millet-moong-dal-soup",
+      "steps": [
+        "Rinse 1/2 cup foxtail millet and 1/4 cup split moong dal.",
+        "In a pot, saut\u00e9 1 small chopped onion, 1 carrot (diced) and 1 celery stalk with 1 tbsp oil until soft.",
+        "Add the millet and dal, 4 cups vegetable broth or water, salt and a pinch of turmeric. Simmer for 20\u201325 minutes until grains soften.",
+        "Blend partially for a thicker texture or leave as-is. Finish with a squeeze of lemon and chopped coriander."
+      ]
+    },
+    {
+      "id": "foxtail-millet-uttapam",
+      "title": "Foxtail Millet Uttapam",
+      "shortDescription": "Thick, pancake-like uttapams topped with chopped onion, tomato and chilies \u2014 made from foxtail millet batter.",
+      "image": "recipe-foxtail-millet-uttapam",
+      "steps": [
+        "Prepare foxtail millet dosa batter by soaking 1 cup millet and 1/2 cup urad dal, grinding and fermenting as for dosa.",
+        "Heat a tawa and pour a ladle of batter to make a thick pancake. Sprinkle finely chopped onions, tomatoes and green chilies on top.",
+        "Drizzle oil around edges and cook on medium heat until the base is golden and cooked through. Optionally flip to cook the top briefly.",
+        "Serve hot with coconut chutney and sambar."
+      ]
+    },
+    {
+      "id": "millet-pancakes-with-jaggery",
+      "title": "Millet Pancakes with Palm Jaggery",
+      "shortDescription": "Soft sweet pancakes made from millet flour, sweetened with palm jaggery \u2014 perfect for breakfast or snack.",
+      "image": "recipe-millet-pancakes-jaggery",
+      "steps": [
+        "Mix 1 cup millet flour, 1/2 cup milk (or plant milk), 2 tbsp melted ghee and a pinch of salt to form a batter. Add more water if too thick.",
+        "Dissolve 2\u20133 tbsp palm jaggery powder in a little warm water and mix into the batter to taste.",
+        "Heat a non-stick pan, pour small ladles and cook until bubbles form. Flip and cook the other side until brown.",
+        "Serve warm with extra jaggery syrup, yogurt or fruit."
+      ]
+    },
+    {
+      "id": "millet-cookies",
+      "title": "Millet Flour Cookies",
+      "shortDescription": "Crisp-baked cookies using a blend of millet flour and butter \u2014 a healthier twist on classic cookies.",
+      "image": "recipe-millet-cookies",
+      "steps": [
+        "Cream 100g softened butter with 50g sugar until light. Add 1 egg and 1 tsp vanilla extract.",
+        "Fold in 1.5 cups millet flour, 1/2 tsp baking powder and a pinch of salt to make a soft dough.",
+        "Roll into balls, flatten slightly on a baking tray and bake at 180\u00b0C for 12\u201315 minutes until edges are golden.",
+        "Cool on a rack and store in an airtight container."
+      ]
+    },
+    {
+      "id": "millet-salad-roasted-veg",
+      "title": "Millet Salad with Roasted Vegetables",
+      "shortDescription": "A colorful salad of cooked millet tossed with roasted seasonal vegetables, lemon dressing and herbs.",
+      "image": "recipe-millet-salad-roasted-veg",
+      "steps": [
+        "Cook 1 cup millet until tender (about 12\u201315 minutes), drain and cool to room temperature.",
+        "Roast diced vegetables (sweet potato, bell pepper, zucchini) with olive oil, salt and pepper until caramelized.",
+        "In a large bowl combine millet, roasted veg, chopped cucumber, cherry tomatoes and fresh herbs (mint/coriander).",
+        "Whisk 2 tbsp olive oil, 1 tbsp lemon juice, 1 tsp honey and salt to make a dressing. Toss salad and serve chilled or warm."
+      ]
+    },
+    {
+      "id": "millet-kheer",
+      "title": "Millet Kheer (Sweet Porridge)",
+      "shortDescription": "A creamy sweet porridge made with mixed millets simmered in milk and flavoured with cardamom and nuts.",
+      "image": "recipe-millet-kheer",
+      "steps": [
+        "Roast 1/2 cup mixed millet briefly. In a pot warm 3 cups milk and add the millet.",
+        "Simmer gently for 20\u201325 minutes until the millet is soft and the milk has thickened. Stir frequently to avoid sticking.",
+        "Add 3\u20134 tbsp palm jaggery (or sugar) to sweeten, a pinch of cardamom powder and a handful of chopped nuts.",
+        "Cook for another 5 minutes, adjust sweetness and serve warm or chilled."
+      ]
+    },
+    {
+      "id": "millet-stuffed-paratha",
+      "title": "Millet Stuffed Paratha",
+      "shortDescription": "Wheat or millet flour flatbreads stuffed with seasoned millet-and-spice filling, shallow-fried until crisp.",
+      "image": "recipe-millet-stuffed-paratha",
+      "steps": [
+        "Cook 1/2 cup millet and mix with crumbled paneer or mashed spiced potatoes. Add cumin, chopped coriander, green chili and salt to taste.",
+        "Make a soft dough from whole wheat or millet flour and water. Divide into balls.",
+        "Roll each ball into a small disc, place filling in the center, fold and roll gently into a paratha.",
+        "Cook on a hot tava with a little ghee until both sides are golden and crisp. Serve hot with yogurt or pickle."
+      ]
+    },
+    {
+      "id": "palm-jaggery-millet-ladoos",
+      "title": "Palm Jaggery Millet Ladoos",
+      "shortDescription": "Quick energy bites made with roasted millet puffs/flour and melted palm jaggery \u2014 great snack or dessert.",
+      "image": "recipe-palm-jaggery-millet-ladoos",
+      "steps": [
+        "Roast 1 cup millet flour or millet puffs lightly in a pan with 1 tbsp ghee until aromatic.",
+        "Melt 3/4 cup palm jaggery powder with 2 tbsp water on low heat to a syrupy consistency.",
+        "Mix the jaggery syrup with the roasted millet and add chopped nuts and a pinch of cardamom.",
+        "While warm, shape into small ladoos (balls) and let cool until set. Store in an airtight box."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "business": {
+    "name": "Nway Millets",
+    "city": "South India",
+    "phone": "+91 9803777077",
+    "whatsapp": "+91 9803777077",
+    "email": "khadarmillets@gmail.com",
+    "address": "Sourced directly from trusted farmers and suppliers in South India.",
+    "deliveries": {
+      "global": true,
+      "notes": "Delivery charges and packaging charges apply. Premium packaging includes full guarantee for damage during transit."
+    }
+  }
+}
