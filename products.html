@@ -1,112 +1,108 @@
-<!doctype html>
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
 <title>Products — Nway Millets</title>
-<meta name="description" content="Nway Millets — millets, traditional oils, palm jaggery and household copper plates.">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/vars.css">
-<link rel="stylesheet" href="css/style.css">
+<meta content="Nway Millets — millets, traditional oils, palm jaggery and household copper plates." name="description"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Lato:wght@300;400;700&amp;display=swap" rel="stylesheet"/>
+<link href="css/vars.css" rel="stylesheet"/>
+<link href="css/style.css" rel="stylesheet"/>
 </head>
 <body class="nm-bg">
 <header class="nm-header nm-sticky" role="banner">
-  <div class="nm-container nm-header-inner">
-    <a class="nm-logo" href="index.html">
-      <img src="images/logo-text.png" alt="Nway Millets logo" class="nm-logo-img">
-    </a>
-    <nav class="nm-nav" aria-label="Main navigation">
-      <ul class="nm-nav-list">
-        <li><a href="index.html">Home</a></li>
-        <li class="nm-has-dropdown" id="products-menu">
-          <button class="nm-nav-button" aria-haspopup="true" aria-expanded="false">Products ▾</button>
-          <ul class="nm-dropdown" aria-label="Products"><li><a href="products.html?cat=Millets">Millets</a></li>
-            <li><a href="products.html?cat=Oils">Oils</a></li>
-            <li><a href="products.html?cat=Millet%20Seeds">Millet Seeds</a></li>
-            <li><a href="products.html?cat=Millet%20Flours">Millet Flours</a></li>
-            <li><a href="products.html?cat=Sweeteners">Sweeteners</a></li>
-            <li><a href="products.html?cat=Houseware">Houseware</a></li>
-            <li><a href="products.html">All Products</a></li></ul>
-        </li>
-        <li><a href="recipes.html">Recipes</a></li>
-        <li><a href="testimonials.html">Testimonials</a></li>
-        <li><a href="about.html">About Us</a></li>
-        <li><a href="contact.html">Contact</a></li>
-        <li><a href="faq.html">FAQ</a></li>
-      </ul>
-      <button class="nm-hamburger" aria-label="Open menu" aria-controls="mobile-menu" aria-expanded="false">☰</button>
-    </nav>
-  </div>
-
-  <div id="mobile-menu" class="nm-mobile-menu" aria-hidden="true">
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="products.html">Products</a></li>
-      <li><a href="recipes.html">Recipes</a></li>
-      <li><a href="testimonials.html">Testimonials</a></li>
-      <li><a href="about.html">About Us</a></li>
-      <li><a href="contact.html">Contact</a></li>
-      <li><a href="faq.html">FAQ</a></li>
-    </ul>
-  </div>
+<div class="nm-container nm-header-inner">
+<a class="nm-logo" href="index.html">
+<img alt="Nway Millets logo" class="nm-logo-img" src="images/logo-text.png"/>
+</a>
+<nav aria-label="Main navigation" class="nm-nav">
+<ul class="nm-nav-list">
+<li><a href="index.html">Home</a></li>
+<li class="nm-has-dropdown" id="products-menu">
+<button aria-expanded="false" aria-haspopup="true" class="nm-nav-button">Products ▾</button>
+<ul aria-label="Products" class="nm-dropdown"><li><a href="products.html?cat=Millets">Millets</a></li>
+<li><a href="products.html?cat=Oils">Oils</a></li>
+<li><a href="products.html?cat=Millet%20Seeds">Millet Seeds</a></li>
+<li><a href="products.html?cat=Millet%20Flours">Millet Flours</a></li>
+<li><a href="products.html?cat=Sweeteners">Sweeteners</a></li>
+<li><a href="products.html?cat=Houseware">Houseware</a></li>
+<li><a href="products.html">All Products</a></li></ul>
+</li>
+<li><a href="recipes.html">Recipes</a></li>
+<li><a href="testimonials.html">Testimonials</a></li>
+<li><a href="about.html">About Us</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="faq.html">FAQ</a></li>
+</ul>
+<button aria-controls="mobile-menu" aria-expanded="false" aria-label="Open menu" class="nm-hamburger">☰</button>
+</nav>
+</div>
+<div aria-hidden="true" class="nm-mobile-menu" id="mobile-menu">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="products.html">Products</a></li>
+<li><a href="recipes.html">Recipes</a></li>
+<li><a href="testimonials.html">Testimonials</a></li>
+<li><a href="about.html">About Us</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="faq.html">FAQ</a></li>
+</ul>
+</div>
 </header>
-
 <main class="nm-container">
-  <section class="nm-products-hero">
-    <div class="nm-hero-inner">
-      <h1>Our Products</h1>
-      <p class="nm-lead">Millets at the heart — traditional, fresh and sustainably processed.</p>
-    </div>
-  </section>
-
-  <section class="nm-products-controls">
-    <div class="nm-filter-bar" role="toolbar" aria-label="Product categories">
-      <button class="nm-filter-btn" data-cat="All">All</button>
-      <button class="nm-filter-btn" data-cat="Millets">Millets</button>
-      <button class="nm-filter-btn" data-cat="Oils">Oils</button>
-      <button class="nm-filter-btn" data-cat="Sweeteners">Sweeteners</button>
-      <button class="nm-filter-btn" data-cat="Houseware">Houseware</button>
-      <div class="nm-search-wrap">
-        <input id="nm-search" type="search" placeholder="Search products..." aria-label="Search products">
-      </div>
-    </div>
-  </section>
-
-  <section class="nm-products-grid-wrap">
-    <div id="nm-products-grid" class="nm-products-grid" aria-live="polite"></div>
-  </section>
-</main>
+<section class="nm-products-hero">
+<div class="nm-hero-inner">
+<h1>Our Products</h1>
+<p class="nm-lead">Millets at the heart — traditional, fresh and sustainably processed.</p>
+</div>
+</section>
+<section class="nm-products-controls">
+<div aria-label="Product categories" class="nm-filter-bar" role="toolbar">
+<button class="nm-filter-btn" data-cat="All">All</button>
+<button class="nm-filter-btn" data-cat="Millets">Millets</button>
+<button class="nm-filter-btn" data-cat="Oils">Oils</button>
+<button class="nm-filter-btn" data-cat="Sweeteners">Sweeteners</button>
+<button class="nm-filter-btn" data-cat="Houseware">Houseware</button>
+<div class="nm-search-wrap">
+<input aria-label="Search products" id="nm-search" placeholder="Search products..." type="search"/>
+</div>
+</div>
+</section>
+<section class="nm-products-grid-wrap">
+<div aria-live="polite" class="nm-products-grid" id="nm-products-grid"></div>
+</section>
+<div id="products-container">&lt;!-- Sanity will load products-container content here --&gt;</div></main>
 <footer class="nm-footer" role="contentinfo">
-  <div class="nm-container nm-footer-inner">
-    <div class="nm-footer-col">
-      <img src="images/logo-text.png" alt="Nway Millets logo" style="max-width:160px;">
-      <p>Family-run millets &amp; organic goods. Straight from fields to your home.</p>
-    </div>
-    <div class="nm-footer-col">
-      <h4>Quick links</h4>
-      <ul>
-        <li><a href="products.html">Products</a></li>
-        <li><a href="recipes.html">Recipes</a></li>
-        <li><a href="testimonials.html">Testimonials</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
-    </div>
-    <div class="nm-footer-col">
-      <h4>Contact</h4>
-      <p>Phone / WhatsApp: <a href="https://wa.me/919803777077" target="_blank">+91 9803777077</a> <a class="nm-social-icon" href="https://t.me/+xS9LT8L8h0MwZGZl" target="_blank" rel="noopener" aria-label="Telegram channel" title="Join our Telegram"><svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" xmlns="http://www.w3.org/2000/svg"><path d="M22 3L2 10.5l5.5 1.9L9.5 21 13 15l3.9 4 5.1-17z" fill="currentColor"/></svg></a></p>
-      <p>Email: <a href="mailto:khadarmillets@gmail.com">khadarmillets@gmail.com</a></p>
-      <p>City: Jalandhar</p>
-    </div>
-  </div>
-  <div class="nm-footer-bottom">
-    <div class="nm-container">© <span id="year"></span> Nway Millets — All rights reserved.</div>
-  </div>
+<div class="nm-container nm-footer-inner">
+<div class="nm-footer-col">
+<img alt="Nway Millets logo" src="images/logo-text.png" style="max-width:160px;"/>
+<p>Family-run millets &amp; organic goods. Straight from fields to your home.</p>
+</div>
+<div class="nm-footer-col">
+<h4>Quick links</h4>
+<ul>
+<li><a href="products.html">Products</a></li>
+<li><a href="recipes.html">Recipes</a></li>
+<li><a href="testimonials.html">Testimonials</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+<div class="nm-footer-col">
+<h4>Contact</h4>
+<p>Phone / WhatsApp: <a href="https://wa.me/919803777077" target="_blank">+91 9803777077</a> <a aria-label="Telegram channel" class="nm-social-icon" href="https://t.me/+xS9LT8L8h0MwZGZl" rel="noopener" target="_blank" title="Join our Telegram"><svg aria-hidden="true" height="20" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M22 3L2 10.5l5.5 1.9L9.5 21 13 15l3.9 4 5.1-17z" fill="currentColor"></path></svg></a></p>
+<p>Email: <a href="mailto:khadarmillets@gmail.com">khadarmillets@gmail.com</a></p>
+<p>City: Jalandhar</p>
+</div>
+</div>
+<div class="nm-footer-bottom">
+<div class="nm-container">© <span id="year"></span> Nway Millets — All rights reserved.</div>
+</div>
 </footer>
 <script>document.getElementById('year')?.appendChild(document.createTextNode(new Date().getFullYear()));</script>
-
-<a class="nm-whatsapp-float" href="https://wa.me/919803777077" target="_blank" aria-label="Chat on WhatsApp">
-<svg aria-hidden="true" viewBox="0 0 24 24" width="28" height="28"><path fill="#fff" d="M20.52 3.48A11.849 11.849 0 0 0 12 0C5.373 0 .014 5.36 0 12c0 2.11.56 4.18 1.62 6.01L0 24l6.25-1.63A11.93 11.93 0 0 0 12 24c6.627 0 12-5.373 12-12 0-1.98-.48-3.86-1.48-5.52zM12 22c-1.84 0-3.56-.45-5.08-1.25L5 20l-.8-1.78A9.89 9.89 0 0 1 2 12c0-5.52 4.48-10 10-10s10 4.48 10 10S17.52 22 12 22z"/><path fill="#fff" d="M17.45 14.37c-.27-.13-1.6-.79-1.85-.88-.25-.09-.43-.13-.62.13-.19.26-.72.88-.88 1.06-.16.18-.32.2-.59.07-.27-.13-1.13-.42-2.15-1.33-.8-.7-1.34-1.56-1.5-1.83-.16-.27-.02-.42.12-.55.12-.12.27-.32.4-.48.13-.16.17-.27.27-.45.1-.18.05-.34-.02-.48-.07-.13-.62-1.5-.85-2.06-.22-.54-.45-.46-.62-.47-.16-.01-.35-.01-.53-.01-.18 0-.47.07-.72.34-.25.27-.95.93-.95 2.28s.98 2.65 1.12 2.84c.13.18 1.95 2.98 4.73 4.18 3.31 1.43 3.31 0 3.9-1.08.59-1.08.59-2.02.41-2.23-.18-.2-.63-.31-.9-.44z"/></svg>
+<a aria-label="Chat on WhatsApp" class="nm-whatsapp-float" href="https://wa.me/919803777077" target="_blank">
+<svg aria-hidden="true" height="28" viewbox="0 0 24 24" width="28"><path d="M20.52 3.48A11.849 11.849 0 0 0 12 0C5.373 0 .014 5.36 0 12c0 2.11.56 4.18 1.62 6.01L0 24l6.25-1.63A11.93 11.93 0 0 0 12 24c6.627 0 12-5.373 12-12 0-1.98-.48-3.86-1.48-5.52zM12 22c-1.84 0-3.56-.45-5.08-1.25L5 20l-.8-1.78A9.89 9.89 0 0 1 2 12c0-5.52 4.48-10 10-10s10 4.48 10 10S17.52 22 12 22z" fill="#fff"></path><path d="M17.45 14.37c-.27-.13-1.6-.79-1.85-.88-.25-.09-.43-.13-.62.13-.19.26-.72.88-.88 1.06-.16.18-.32.2-.59.07-.27-.13-1.13-.42-2.15-1.33-.8-.7-1.34-1.56-1.5-1.83-.16-.27-.02-.42.12-.55.12-.12.27-.32.4-.48.13-.16.17-.27.27-.45.1-.18.05-.34-.02-.48-.07-.13-.62-1.5-.85-2.06-.22-.54-.45-.46-.62-.47-.16-.01-.35-.01-.53-.01-.18 0-.47.07-.72.34-.25.27-.95.93-.95 2.28s.98 2.65 1.12 2.84c.13.18 1.95 2.98 4.73 4.18 3.31 1.43 3.31 0 3.9-1.08.59-1.08.59-2.02.41-2.23-.18-.2-.63-.31-.9-.44z" fill="#fff"></path></svg>
 </a>
-<script src="js/site.js" defer></script>
+<script defer="" src="js/site.js"></script>
 </body>
 </html>
